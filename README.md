@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognition
- Handwritten Digit Recognition based on NIST Database
+Recognition of Handwritten Digit Images in NIST Database using Regularized Logistic Regression
